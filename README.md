@@ -11,3 +11,6 @@ This does not include the measurements obtained through averaging the signals in
 5. Averages every variable for each activity and subject pair.
 
 The resulting tidy dataset is saved to a file called `tidy.txt`.
+The `CodeBook.md` file contains an overview of the variables in `tidy.txt`.
+
+Analysis by Alex Thomas.

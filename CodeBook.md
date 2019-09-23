@@ -33,7 +33,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals to p
 Variables beginning with `freqBodyAcc`, `freqBodyAccJerk`, `freqBodyGyro`, `freqBodyAccJerkMag`, `freqBodyGyroMag`, `freqBodyGyroJerkMag` were derived from these signals.
 Variables ending in `X`, `Y`, or `Z` denote 3-axial signals in the X, Y and Z directions.
 The variables containing `Mean` or `Std` denote the mean and standard deviation of signals.
-All these variables are numeric, and were normalised to be between -1 and 1.
+All these variables are floating point, and were normalised to be between -1 and 1.
 The variables are as follows:
 - `timeBodyAccMeanX`
 - `timeBodyAccMeanY`
